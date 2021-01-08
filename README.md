@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Hallo daar :wave:
+## I am Rowdy Chotkan, a Cyber Security / Computer Science MSc Student @TuDelft.
+### Want to know what I am up to? Feel free to reach out to me on [http://rowdy.me](http://rowdy.me).
 <!--
 **InvictusRMC/InvictusRMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
